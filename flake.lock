@@ -1,0 +1,764 @@
+{
+  "nodes": {
+    "bytes": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1603839287,
+        "narHash": "sha256-DsjaJMgBomT+HnWCHPnK8KMWnd7UrdEIxbwB7EHm+6k=",
+        "owner": "MarcelineVQ",
+        "repo": "idris2-bytes",
+        "rev": "c9b18be89fafb077b56ab27d9176e6a78b6b351f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris2-bytes",
+        "type": "github"
+      }
+    },
+    "clibs": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1594497299,
+        "narHash": "sha256-nOmUJJ3XepnHT3mtp3wG099XhvbihuMfl9GCNA1out8=",
+        "owner": "edwinb",
+        "repo": "idris2-clibs",
+        "rev": "d7d47766667a9b009fe84bd22fcc7987ece748f5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "edwinb",
+        "repo": "idris2-clibs",
+        "type": "github"
+      }
+    },
+    "comonad": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1614922580,
+        "narHash": "sha256-uJjGvZnmftkl4bwTXN9aOAXPEjsz/8QxHvyeA/gjDaw=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-comonad",
+        "rev": "9bc8ae122160231b6c387e86bae0a34f34f678eb",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-comonad",
+        "type": "github"
+      }
+    },
+    "concur-core": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1600652210,
+        "narHash": "sha256-rEeybkTqrD+NzUrW1VCzU5d1c4YqnpnNLtKTk9nFNCk=",
+        "owner": "bbarker",
+        "repo": "idris-concur-core",
+        "rev": "e28e223a16c52ce024f6cce7c0c922a271db2b23",
+        "type": "github"
+      },
+      "original": {
+        "owner": "bbarker",
+        "repo": "idris-concur-core",
+        "type": "github"
+      }
+    },
+    "curl": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1613946486,
+        "narHash": "sha256-kngJLR+G+7xQmf4gg6IU9/VMyF0sg5Gr6sr0UP//Q78=",
+        "owner": "MarcelineVQ",
+        "repo": "idris2-curl",
+        "rev": "b0c8a1052826af238cace7408f47185e3c51fb6e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris2-curl",
+        "type": "github"
+      }
+    },
+    "curl-wchresta": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1598151894,
+        "narHash": "sha256-2KeBY7MI+4uYT4FmA7J6oeHHih2wkc1JDv32yR/rKOY=",
+        "owner": "wchresta",
+        "repo": "idris2-curl",
+        "rev": "3ab0ca82464a6221e308553bbeb2e7ed40fc3d3b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "wchresta",
+        "repo": "idris2-curl",
+        "type": "github"
+      }
+    },
+    "dart": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616942722,
+        "narHash": "sha256-u5srDG+9o6Fd2h1s4voIHX4tNPSo7G6Ph2IjqpVNCFM=",
+        "owner": "bamboo",
+        "repo": "idris2dart",
+        "rev": "12dcf0d0dc167bb1a7f41e097411bc5eda5d7cd7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "bamboo",
+        "repo": "idris2dart",
+        "type": "github"
+      }
+    },
+    "dom": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616914790,
+        "narHash": "sha256-DqD1VtoA9Trzh1T1fcdlYE/cH+qnJkKHvCBrKlhLcpc=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-dom",
+        "rev": "8cd8a30fe7c4bf75dbe7163f5c1bdc1aba3ae9d2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-dom",
+        "type": "github"
+      }
+    },
+    "elab-deriving": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1613946540,
+        "narHash": "sha256-OrhHD14LMe/D65XpZgMtdouANmbtYmrKMiy6LxaWIe4=",
+        "owner": "MarcelineVQ",
+        "repo": "idris2-elab-deriving",
+        "rev": "e317cea6a4f678cc829b850355bdb6239bc72abf",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris2-elab-deriving",
+        "type": "github"
+      }
+    },
+    "elab-util": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1615902729,
+        "narHash": "sha256-urvkxAe2Af56g3sB8WVuftyx1xKkDaszC8+opkASUFk=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-elab-util",
+        "rev": "907b4f58cc20123921e4472e9889fa84d97e8a2c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-elab-util",
+        "type": "github"
+      }
+    },
+    "erlang": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1615927431,
+        "narHash": "sha256-jvkLOYjJgfwpTelxqcNTUNONCejQ2d6IM0mwcMgtrV0=",
+        "owner": "chrrasmussen",
+        "repo": "Idris2-Erlang",
+        "rev": "ffd095fe7d8282eacf9faad90d5d1599a0a438fc",
+        "type": "github"
+      },
+      "original": {
+        "owner": "chrrasmussen",
+        "repo": "Idris2-Erlang",
+        "type": "github"
+      }
+    },
+    "extra": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616266219,
+        "narHash": "sha256-F28mi8pqY/s97LwwJ/8gmSH5BqsYQQcoYCk7iMIfak8=",
+        "owner": "tensorknower69",
+        "repo": "idris2-extra",
+        "rev": "648fe05ca1a689f33cc8b425a71ed806ad984670",
+        "type": "github"
+      },
+      "original": {
+        "owner": "tensorknower69",
+        "repo": "idris2-extra",
+        "type": "github"
+      }
+    },
+    "extras": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1612658217,
+        "narHash": "sha256-6GDAqSSebuWuf/8bScXCyBOBd9sz/Q8jg5+tYVyqNP8=",
+        "owner": "mb64",
+        "repo": "idris2-extras",
+        "rev": "cc7251c2003d66885c775767dd3a13a193f5b710",
+        "type": "github"
+      },
+      "original": {
+        "owner": "mb64",
+        "repo": "idris2-extras",
+        "type": "github"
+      }
+    },
+    "flake-utils": {
+      "locked": {
+        "lastModified": 1614513358,
+        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "fsharp": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1598805125,
+        "narHash": "sha256-ss0YuYGyUF8WX6LHEooIOXKJCi1mnRLFpU0TEJ38fwU=",
+        "owner": "zenntenn",
+        "repo": "Idris2-FSharp",
+        "rev": "015e7bfd40a7bd8a1851b134b5048272f901d0e8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "zenntenn",
+        "repo": "Idris2-FSharp",
+        "type": "github"
+      }
+    },
+    "grin": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616931201,
+        "narHash": "sha256-FzJp3+sbtMvadF789gd7Mababcr5h4N7FOU/oTzLiv8=",
+        "owner": "Z-snails",
+        "repo": "Idris2-Grin",
+        "rev": "779235530c8afe31fdb4c1fc91c8cf8b0882d415",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Z-snails",
+        "repo": "Idris2-Grin",
+        "type": "github"
+      }
+    },
+    "hedgehog": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616516783,
+        "narHash": "sha256-NXtdqxgr6a9P/lR0SZI9VqK9C4aassoU7EpALvy8EqU=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-hedgehog",
+        "rev": "09790f60e5bb91a3e5791b26401d304e43864272",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-hedgehog",
+        "type": "github"
+      }
+    },
+    "helloidris2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616843017,
+        "narHash": "sha256-5RG5GsrxNYLLwbI40JpRPCWjunQrm1m/dCH5GuuEbIg=",
+        "owner": "alexhumphreys",
+        "repo": "hello-idris2",
+        "rev": "7ecc41414566e829191d7d99b5545b5074cad088",
+        "type": "github"
+      },
+      "original": {
+        "owner": "alexhumphreys",
+        "repo": "hello-idris2",
+        "type": "github"
+      }
+    },
+    "hott": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1614895755,
+        "narHash": "sha256-CxM+JOx0e1cF0XYJWJd7qAXUHee5psVhQJWe9sVnAMQ=",
+        "owner": "Russoul",
+        "repo": "Idris2-HoTT",
+        "rev": "0c11569ca8205caecd92e4cdb85fb7f10ca80454",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Russoul",
+        "repo": "Idris2-HoTT",
+        "type": "github"
+      }
+    },
+    "idris-emacs-src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1613351183,
+        "narHash": "sha256-ngg48SzrR2LCtjle3WR3BOK86USRB0ZXmgXWu9EzQbo=",
+        "owner": "redfish64",
+        "repo": "idris2-mode",
+        "rev": "77390611a934f13e03a45e9f8a4e476dd17a9c5b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "redfish64",
+        "repo": "idris2-mode",
+        "type": "github"
+      }
+    },
+    "idris2-flake": {
+      "inputs": {
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "idris-emacs-src": "idris-emacs-src",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1616783245,
+        "narHash": "sha256-l3BqztMTVniNrFLp2gPIpbC1zP7uD4cOVwsrBYJgHkw=",
+        "owner": "idris-lang",
+        "repo": "Idris2",
+        "rev": "ec77ad21abfcc335971c8170e3dbe94372f86431",
+        "type": "github"
+      },
+      "original": {
+        "owner": "idris-lang",
+        "repo": "Idris2",
+        "type": "github"
+      }
+    },
+    "json": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1611141034,
+        "narHash": "sha256-AE9nRDQ/GTNq1cxBPziwuiyZx14PH+zHGl3Xe7e+Dl4=",
+        "owner": "jumper149",
+        "repo": "idris2-json",
+        "rev": "82543f1135011d0ac70a6fcd8f1eb70e1eb40fd4",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jumper149",
+        "repo": "idris2-json",
+        "type": "github"
+      }
+    },
+    "kladenets": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1608390000,
+        "narHash": "sha256-ditSm7BPoEIVoBjKsjuUtF0VYCWCwoHsUR6wciFRzDg=",
+        "owner": "SmiVan",
+        "repo": "kladenets",
+        "rev": "a211f4bbff999ba319fa8604a0ef34463b380d34",
+        "type": "github"
+      },
+      "original": {
+        "owner": "SmiVan",
+        "repo": "kladenets",
+        "type": "github"
+      }
+    },
+    "lens": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616975031,
+        "narHash": "sha256-8WzYz0lsLPINo5gAVDrcmraWaBfxBdgLnWcZdYeMpII=",
+        "owner": "bijan2005",
+        "repo": "idris2-lens",
+        "rev": "32ea485cb1049d2dd26a7d4d2eb3499d94e28e71",
+        "type": "github"
+      },
+      "original": {
+        "owner": "bijan2005",
+        "repo": "idris2-lens",
+        "type": "github"
+      }
+    },
+    "libgit": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1599715607,
+        "narHash": "sha256-Jamcr5QWTpGS/R/Cnxab/TowPIdJQTRf/gzCC0vCxZs=",
+        "owner": "bigs",
+        "repo": "idris2-libgit2",
+        "rev": "c827a566b4060ef55d11277b234252ccc626c59c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "bigs",
+        "repo": "idris2-libgit2",
+        "type": "github"
+      }
+    },
+    "lua": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1614346281,
+        "narHash": "sha256-EuMv50bI2PimQwZDSJW85vkVYteRvHuJaWw9RqW0Veg=",
+        "owner": "Russoul",
+        "repo": "Idris2-Lua",
+        "rev": "157c4b8a3f2b000de40d6d93013046be7040b94b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Russoul",
+        "repo": "Idris2-Lua",
+        "type": "github"
+      }
+    },
+    "managed": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1613946446,
+        "narHash": "sha256-48UqPK+POAYsDYw+ZH3YkdojXKY9hIbUHmQq07u+ssc=",
+        "owner": "MarcelineVQ",
+        "repo": "idris2-managed",
+        "rev": "5ce099aebd2edd64a326036b8f64a4c93c205355",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris2-managed",
+        "type": "github"
+      }
+    },
+    "mlf": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1602520792,
+        "narHash": "sha256-AcMQB6mTwnnzIaL8C9BgOEmqQ/seYHfNk+VT4mBBs68=",
+        "owner": "ziman",
+        "repo": "idris2-mlf",
+        "rev": "8384ea66e3a6a024a966a3011d30c7e400ae7f3f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ziman",
+        "repo": "idris2-mlf",
+        "type": "github"
+      }
+    },
+    "mysql": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616956869,
+        "narHash": "sha256-ZBYudKuRE+n7Tu8mfzwt3gaK7keWZzIt1eJ3eC1ypz0=",
+        "owner": "thomasdziedzic",
+        "repo": "mysql-idris2",
+        "rev": "3b25206732130419dfa54e90290bac42a52b1947",
+        "type": "github"
+      },
+      "original": {
+        "owner": "thomasdziedzic",
+        "repo": "mysql-idris2",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1616779317,
+        "narHash": "sha256-+mUTkYguFMNGb57JkwauDgjcq65RnOLUhDo4mhb8qAI=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "ad47284f8b01f587e24a4f14e0f93126d8ebecda",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "ocaml": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1602524714,
+        "narHash": "sha256-EMaqYgLDj8SAADHo6PC7I0XtJKFM4doVBXCQ4OE4HHk=",
+        "owner": "karroffel",
+        "repo": "Idris2-Ocaml",
+        "rev": "31c772805fdce359384a33cbbfc165e0deafe4eb",
+        "type": "github"
+      },
+      "original": {
+        "owner": "karroffel",
+        "repo": "Idris2-Ocaml",
+        "type": "github"
+      }
+    },
+    "pretty-show": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616516337,
+        "narHash": "sha256-4UBG3UVeBcrpl679hu/BYl4QINWi9lgQ3Nz57rSUQK8=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-pretty-show",
+        "rev": "619a9e861975ed38665f6fc984b4b1bd0888f660",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-pretty-show",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "bytes": "bytes",
+        "clibs": "clibs",
+        "comonad": "comonad",
+        "concur-core": "concur-core",
+        "curl": "curl",
+        "curl-wchresta": "curl-wchresta",
+        "dart": "dart",
+        "dom": "dom",
+        "elab-deriving": "elab-deriving",
+        "elab-util": "elab-util",
+        "erlang": "erlang",
+        "extra": "extra",
+        "extras": "extras",
+        "flake-utils": "flake-utils",
+        "fsharp": "fsharp",
+        "grin": "grin",
+        "hedgehog": "hedgehog",
+        "helloidris2": "helloidris2",
+        "hott": "hott",
+        "idris2-flake": "idris2-flake",
+        "json": "json",
+        "kladenets": "kladenets",
+        "lens": "lens",
+        "libgit": "libgit",
+        "lua": "lua",
+        "managed": "managed",
+        "mlf": "mlf",
+        "mysql": "mysql",
+        "nixpkgs": "nixpkgs",
+        "ocaml": "ocaml",
+        "pretty-show": "pretty-show",
+        "scientific": "scientific",
+        "sdl": "sdl",
+        "server": "server",
+        "sesh": "sesh",
+        "sop": "sop",
+        "splitmix": "splitmix",
+        "sqlite3": "sqlite3",
+        "streaming": "streaming",
+        "subsets": "subsets",
+        "text": "text",
+        "webidl": "webidl",
+        "zmq": "zmq"
+      }
+    },
+    "scientific": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1611499975,
+        "narHash": "sha256-s3j+jvSJFRoMwOcYDPgJbjNWgLF9VNOpJGOxnonACBo=",
+        "owner": "jumper149",
+        "repo": "idris2-scientific",
+        "rev": "a7037a6b9489cc06b17ca0402059f9a3c45d7a98",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jumper149",
+        "repo": "idris2-scientific",
+        "type": "github"
+      }
+    },
+    "sdl": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616612491,
+        "narHash": "sha256-lc8IEjay3CahzhHvVX3SnQF2KZy9WO7o1KASN9cYNPQ=",
+        "owner": "ShinKage",
+        "repo": "idris2-sdl",
+        "rev": "f196d8485e5ee9f642ff879703349d4b9c986d2c",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ShinKage",
+        "repo": "idris2-sdl",
+        "type": "github"
+      }
+    },
+    "server": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1604355678,
+        "narHash": "sha256-wLFqT3eTz/2T0Yw3Sr7gEmUYBFMGZNN87DKIqMKaNMc=",
+        "owner": "ska80",
+        "repo": "idris2-server",
+        "rev": "9236fb5199986c406e264849e2b2c4dcf4a39c2b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ska80",
+        "repo": "idris2-server",
+        "type": "github"
+      }
+    },
+    "sesh": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1607978098,
+        "narHash": "sha256-Xm1oMzEifroIOMymq/PBVHj/Vdf2gJZgWlIAXdIMFFY=",
+        "owner": "wenkokke",
+        "repo": "idris-sesh",
+        "rev": "98cb766786d803f4ab3aba363a889b71faf3e156",
+        "type": "github"
+      },
+      "original": {
+        "owner": "wenkokke",
+        "repo": "idris-sesh",
+        "type": "github"
+      }
+    },
+    "sop": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1616574040,
+        "narHash": "sha256-fPSxo+qxKgjkkR9QrVUqgdyqBLL1E6eP619Nq9MQZF0=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-sop",
+        "rev": "b98878d104dd8568087e9fb531a43bd206ac0e2f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-sop",
+        "type": "github"
+      }
+    },
+    "splitmix": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1613036226,
+        "narHash": "sha256-VPRvjpOCVyhBWJlhShIkYs/nzgvq0ebu4OpRqW2CUXs=",
+        "owner": "Z-snails",
+        "repo": "idris2splitmix",
+        "rev": "e3236e4427a04851ff428094c87cf50a858a2f0e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Z-snails",
+        "repo": "idris2splitmix",
+        "type": "github"
+      }
+    },
+    "sqlite3": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1587074506,
+        "narHash": "sha256-kvUbpaOaxk1bOEebAMGInSJoPmLq5NgLr1cTFc5MSZg=",
+        "owner": "MarcelineVQ",
+        "repo": "idris-sqlite3",
+        "rev": "e5656b785ee73510f692f1482e155a27455d20f6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris-sqlite3",
+        "type": "github"
+      }
+    },
+    "streaming": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1607847605,
+        "narHash": "sha256-jJHEH0LFKg6rmf5W6FMrnZgjMOYmOYWLkzVk2HYt9mQ=",
+        "owner": "MarcelineVQ",
+        "repo": "idris2-streaming",
+        "rev": "fa0864c9b441e7ab82131364b7b4124f4bb3a600",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MarcelineVQ",
+        "repo": "idris2-streaming",
+        "type": "github"
+      }
+    },
+    "subsets": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1610044585,
+        "narHash": "sha256-Cwovin0dlCx6eVUhg7YwrpsHj7PxE85s0iQ6u3kgkp8=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-subsets",
+        "rev": "ec2da829c6e250b9f21659f822f3df1cffa69ee7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-subsets",
+        "type": "github"
+      }
+    },
+    "text": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1612452849,
+        "narHash": "sha256-Y9itteaXCp1Pu+wm2X8y+oeUJTUydmKmNW5IAsikDrc=",
+        "owner": "Z-snails",
+        "repo": "idris2text",
+        "rev": "b782ffd8a42e696884bf547707f386791ae7f633",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Z-snails",
+        "repo": "idris2text",
+        "type": "github"
+      }
+    },
+    "webidl": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1617000097,
+        "narHash": "sha256-2etjHVk7Sv9bkxQdyi0rTQI+u5OkJQe5JpUmV0IDTak=",
+        "owner": "stefan-hoeck",
+        "repo": "idris2-webidl",
+        "rev": "9dc6631f309e236ad656117c8cf6c80cf1e3f69e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stefan-hoeck",
+        "repo": "idris2-webidl",
+        "type": "github"
+      }
+    },
+    "zmq": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1609580065,
+        "narHash": "sha256-KXoRvGrWYheh7LcKBp3fwAbvEjkbenn3eZX9+/b6pAs=",
+        "owner": "KenyC",
+        "repo": "Idris2-ZeroMQ",
+        "rev": "c6e45fd36c900358224caad9fceac6fca905742f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "KenyC",
+        "repo": "Idris2-ZeroMQ",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
